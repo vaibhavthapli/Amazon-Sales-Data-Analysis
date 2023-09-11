@@ -19,7 +19,7 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 ## 📉 Dashboard
 
 [![Dashboard1.png](https://i.postimg.cc/Gp3yq0cT/Dashboard1.png)](https://postimg.cc/Sn5RxvYm)
-<!-- ![App Screenshot](https://github.com/AshishRaykar/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard2.png) -->
+<!-- ![App Screenshot](https://github.com/vaibhavthapli/Amazon-sales-data-analysis/blob/4cc5d0f0f89c8ad730e8db448923e53c824bad5b/Media/Dashboard2.png) -->
 [![Dashboard2.png](https://i.postimg.cc/RVyRqZLC/Dashboard2.png)](https://postimg.cc/vc79NMKC)
 Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
 
@@ -32,20 +32,8 @@ Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
 
 4. The Better Large Canned Shrimp & High Top Dried Mushrooms are the highest selling products in domestic and international markets. 
 
-5. Paracel Gigaplace & Pereras are the top customers who generated the highest revenue
-## 🗂 Documentation
-
-[High Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/HLD%20Document.pdf)
-
-[Low Level Document](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/LLD%20Document.pdf)
-
-[Architecture](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Architecture.pdf)
-
-[WireFrame](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Wireframe.pdf)
-
-[Report](https://github.com/sivamsinghsh/Amazon-Sales-Data-Analysis/blob/main/Amazon%20sales%20report.pptx)
 
 ## 📩 Feedback
 
-If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/shivamsh/)
+If you have any feedback, please reach out to me at [Linkedin](https://www.linkedin.com/in/vaibhavthapli/)
 
